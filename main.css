@@ -445,7 +445,7 @@ input[type="radio"]{
     color:black;
 }
 
-@media (max-width: 767px){
+@media (max-width: 900px){
     .left{
         display:none;
     }
